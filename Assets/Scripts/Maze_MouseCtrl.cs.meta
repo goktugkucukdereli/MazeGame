@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 2bff602220c60a2428d346df1c44861d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - youWin: {instanceID: 0}
+  - hand: {instanceID: 0}
+  - allcom: {instanceID: 0}
+  - timer: {instanceID: 0}
+  - Star1: {instanceID: 0}
+  - Star2: {instanceID: 0}
+  - Star3: {instanceID: 0}
+  - walkAnimation: {instanceID: 0}
+  - lookAnimation: {instanceID: 0}
+  - contactAnimation: {instanceID: 0}
+  - swingAnimation: {instanceID: 0}
+  - sniffingAnimation: {instanceID: 0}
+  - eatAnimation: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
